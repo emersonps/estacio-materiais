@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\sobrecarga9\obj\Debug\sobrecarga9.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\sobrecarga9\bin\Debug\sobrecarga9.exe.config
+C:\Emerson\VB\Aula1-2\sobrecarga9\bin\Debug\sobrecarga9.exe
+C:\Emerson\VB\Aula1-2\sobrecarga9\bin\Debug\sobrecarga9.pdb
+C:\Emerson\VB\Aula1-2\sobrecarga9\obj\Debug\sobrecarga9.exe
+C:\Emerson\VB\Aula1-2\sobrecarga9\obj\Debug\sobrecarga9.pdb

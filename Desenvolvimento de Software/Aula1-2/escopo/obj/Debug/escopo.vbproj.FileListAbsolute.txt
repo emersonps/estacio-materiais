@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\escopo\bin\Debug\escopo.exe.config
+C:\Emerson\VB\Aula1-2\escopo\bin\Debug\escopo.exe
+C:\Emerson\VB\Aula1-2\escopo\bin\Debug\escopo.pdb
+C:\Emerson\VB\Aula1-2\escopo\obj\Debug\escopo.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\escopo\obj\Debug\escopo.exe
+C:\Emerson\VB\Aula1-2\escopo\obj\Debug\escopo.pdb

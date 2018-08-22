@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\Teste2\obj\Debug\Teste2.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\Teste2\bin\Debug\Teste2.exe.config
+C:\Emerson\VB\Aula1-2\Teste2\bin\Debug\Teste2.exe
+C:\Emerson\VB\Aula1-2\Teste2\bin\Debug\Teste2.pdb
+C:\Emerson\VB\Aula1-2\Teste2\obj\Debug\Teste2.exe
+C:\Emerson\VB\Aula1-2\Teste2\obj\Debug\Teste2.pdb

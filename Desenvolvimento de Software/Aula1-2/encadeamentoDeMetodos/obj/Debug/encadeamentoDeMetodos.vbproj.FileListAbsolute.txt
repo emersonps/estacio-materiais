@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\encadeamentoDeMetodos\obj\Debug\encadeamentoDeMetodos.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\encadeamentoDeMetodos\bin\Debug\encadeamentoDeMetodos.exe.config
+C:\Emerson\VB\Aula1-2\encadeamentoDeMetodos\bin\Debug\encadeamentoDeMetodos.exe
+C:\Emerson\VB\Aula1-2\encadeamentoDeMetodos\bin\Debug\encadeamentoDeMetodos.pdb
+C:\Emerson\VB\Aula1-2\encadeamentoDeMetodos\obj\Debug\encadeamentoDeMetodos.exe
+C:\Emerson\VB\Aula1-2\encadeamentoDeMetodos\obj\Debug\encadeamentoDeMetodos.pdb

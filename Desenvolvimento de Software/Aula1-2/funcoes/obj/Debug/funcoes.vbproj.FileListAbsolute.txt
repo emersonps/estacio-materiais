@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\funcoes\bin\Debug\funcoes.exe.config
+C:\Emerson\VB\Aula1-2\funcoes\bin\Debug\funcoes.exe
+C:\Emerson\VB\Aula1-2\funcoes\bin\Debug\funcoes.pdb
+C:\Emerson\VB\Aula1-2\funcoes\obj\Debug\funcoes.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\funcoes\obj\Debug\funcoes.exe
+C:\Emerson\VB\Aula1-2\funcoes\obj\Debug\funcoes.pdb

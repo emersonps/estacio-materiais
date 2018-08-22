@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\modulo2_funcaoConversao\obj\Debug\modulo2_funcaoConversao.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\modulo2_funcaoConversao\bin\Debug\modulo2_funcaoConversao.exe.config
+C:\Emerson\VB\Aula1-2\modulo2_funcaoConversao\bin\Debug\modulo2_funcaoConversao.exe
+C:\Emerson\VB\Aula1-2\modulo2_funcaoConversao\bin\Debug\modulo2_funcaoConversao.pdb
+C:\Emerson\VB\Aula1-2\modulo2_funcaoConversao\obj\Debug\modulo2_funcaoConversao.exe
+C:\Emerson\VB\Aula1-2\modulo2_funcaoConversao\obj\Debug\modulo2_funcaoConversao.pdb

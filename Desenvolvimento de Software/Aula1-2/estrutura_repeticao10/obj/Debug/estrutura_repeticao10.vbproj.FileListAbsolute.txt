@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\estrutura_repeticao10\obj\Debug\estrutura_repeticao10.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\estrutura_repeticao10\bin\Debug\estrutura_repeticao10.exe.config
+C:\Emerson\VB\Aula1-2\estrutura_repeticao10\bin\Debug\estrutura_repeticao10.exe
+C:\Emerson\VB\Aula1-2\estrutura_repeticao10\bin\Debug\estrutura_repeticao10.pdb
+C:\Emerson\VB\Aula1-2\estrutura_repeticao10\obj\Debug\estrutura_repeticao10.exe
+C:\Emerson\VB\Aula1-2\estrutura_repeticao10\obj\Debug\estrutura_repeticao10.pdb

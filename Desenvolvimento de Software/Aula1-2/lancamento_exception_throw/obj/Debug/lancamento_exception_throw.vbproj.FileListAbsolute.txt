@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\lancamento_exception_throw\bin\Debug\lancamento_exception_throw.exe.config
+C:\Emerson\VB\Aula1-2\lancamento_exception_throw\bin\Debug\lancamento_exception_throw.exe
+C:\Emerson\VB\Aula1-2\lancamento_exception_throw\bin\Debug\lancamento_exception_throw.pdb
+C:\Emerson\VB\Aula1-2\lancamento_exception_throw\obj\Debug\lancamento_exception_throw.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\lancamento_exception_throw\obj\Debug\lancamento_exception_throw.exe
+C:\Emerson\VB\Aula1-2\lancamento_exception_throw\obj\Debug\lancamento_exception_throw.pdb

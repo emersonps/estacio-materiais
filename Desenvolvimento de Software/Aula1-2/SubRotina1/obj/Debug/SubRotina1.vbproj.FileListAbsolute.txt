@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\SubRotina1\bin\Debug\SubRotina1.exe.config
+C:\Emerson\VB\Aula1-2\SubRotina1\bin\Debug\SubRotina1.exe
+C:\Emerson\VB\Aula1-2\SubRotina1\bin\Debug\SubRotina1.pdb
+C:\Emerson\VB\Aula1-2\SubRotina1\obj\Debug\SubRotina1.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\SubRotina1\obj\Debug\SubRotina1.exe
+C:\Emerson\VB\Aula1-2\SubRotina1\obj\Debug\SubRotina1.pdb

@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\subrotina\bin\Debug\2subrotina.exe.config
+C:\Emerson\VB\Aula1-2\subrotina\bin\Debug\2subrotina.exe
+C:\Emerson\VB\Aula1-2\subrotina\bin\Debug\2subrotina.pdb
+C:\Emerson\VB\Aula1-2\subrotina\obj\Debug\2subrotina.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\subrotina\obj\Debug\2subrotina.exe
+C:\Emerson\VB\Aula1-2\subrotina\obj\Debug\2subrotina.pdb

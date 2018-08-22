@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\exception_try_catch\bin\Debug\exception_try_catch.exe.config
+C:\Emerson\VB\Aula1-2\exception_try_catch\bin\Debug\exception_try_catch.exe
+C:\Emerson\VB\Aula1-2\exception_try_catch\bin\Debug\exception_try_catch.pdb
+C:\Emerson\VB\Aula1-2\exception_try_catch\obj\Debug\exception_try_catch.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\exception_try_catch\obj\Debug\exception_try_catch.exe
+C:\Emerson\VB\Aula1-2\exception_try_catch\obj\Debug\exception_try_catch.pdb

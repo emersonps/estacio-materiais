@@ -1,0 +1,6 @@
+C:\Emerson\VB\Aula1-2\ExemploMetodos\bin\Debug\ExemploMetodos8.exe.config
+C:\Emerson\VB\Aula1-2\ExemploMetodos\bin\Debug\ExemploMetodos8.exe
+C:\Emerson\VB\Aula1-2\ExemploMetodos\bin\Debug\ExemploMetodos8.pdb
+C:\Emerson\VB\Aula1-2\ExemploMetodos\obj\Debug\ExemploMetodos8.vbprojResolveAssemblyReference.cache
+C:\Emerson\VB\Aula1-2\ExemploMetodos\obj\Debug\ExemploMetodos8.exe
+C:\Emerson\VB\Aula1-2\ExemploMetodos\obj\Debug\ExemploMetodos8.pdb
