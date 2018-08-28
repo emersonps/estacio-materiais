@@ -26,6 +26,12 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "exception_try_catch", "exce
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lancamento_exception_throw", "lancamento_exception_throw\lancamento_exception_throw.vbproj", "{ABB1C9F4-173A-46E8-A585-6A0BA64CBA6A}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Questao5-Aula4", "Questao5-Aula4\Questao5-Aula4.vbproj", "{05C2819F-D093-4E66-A84C-77815653D4E4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "try_aninhados", "try_aninhados\try_aninhados.vbproj", "{E1352C5A-7A85-4260-B89A-FFA703DD014E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "try_catch_finally_throw", "try_catch_finally_throw\try_catch_finally_throw.vbproj", "{24C56C9E-6EEA-47D6-BF84-E1A02011C882}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,5 +86,17 @@ Global
 		{ABB1C9F4-173A-46E8-A585-6A0BA64CBA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABB1C9F4-173A-46E8-A585-6A0BA64CBA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABB1C9F4-173A-46E8-A585-6A0BA64CBA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C2819F-D093-4E66-A84C-77815653D4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C2819F-D093-4E66-A84C-77815653D4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C2819F-D093-4E66-A84C-77815653D4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C2819F-D093-4E66-A84C-77815653D4E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1352C5A-7A85-4260-B89A-FFA703DD014E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1352C5A-7A85-4260-B89A-FFA703DD014E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1352C5A-7A85-4260-B89A-FFA703DD014E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1352C5A-7A85-4260-B89A-FFA703DD014E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C56C9E-6EEA-47D6-BF84-E1A02011C882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C56C9E-6EEA-47D6-BF84-E1A02011C882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C56C9E-6EEA-47D6-BF84-E1A02011C882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C56C9E-6EEA-47D6-BF84-E1A02011C882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

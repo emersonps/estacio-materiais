@@ -1,0 +1,6 @@
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_catch_finally_throw\obj\Debug\try_catch_finally_throw.vbprojResolveAssemblyReference.cache
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_catch_finally_throw\bin\Debug\try_catch_finally_throw.exe.config
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_catch_finally_throw\bin\Debug\try_catch_finally_throw.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_catch_finally_throw\bin\Debug\try_catch_finally_throw.pdb
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_catch_finally_throw\obj\Debug\try_catch_finally_throw.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_catch_finally_throw\obj\Debug\try_catch_finally_throw.pdb

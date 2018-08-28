@@ -1,0 +1,6 @@
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_aninhados\obj\Debug\try_aninhados.vbprojResolveAssemblyReference.cache
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_aninhados\bin\Debug\try_aninhados.exe.config
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_aninhados\bin\Debug\try_aninhados.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_aninhados\bin\Debug\try_aninhados.pdb
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_aninhados\obj\Debug\try_aninhados.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\try_aninhados\obj\Debug\try_aninhados.pdb
