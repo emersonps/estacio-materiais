@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmls="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsl="htttp://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+         http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+         
+    <servlet>
+        <servlet-name>ControleQuadrado</servlet-name>
+        <servlet-name>controle.ControleQuadrado</servlet-name>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ControleQuadrado</servlet-name>
+        <utl-pattern>/controle.quadrado</utl-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>

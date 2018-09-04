@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <form action="servlet.controle" method="post"><!-- Esses dados serão enviados para o Servilet-->
+            Digite a matrícula:
+            <input type="text" name="txtMatricula"><br>
+            <input type="radio" name="rdoTipo" value="AlunoGrad">Aluno Graduação<br>
+            <input type="radio" name="rdoTipo" value="AlunoPos">Aluno Pós<br>
+            Digite o nome:
+            <input type="text" name="txtNome"><br>
+            Digite o teste:
+            <input type="text" name="txtTeste"><br>
+            Digite a prova:
+            <input type="text" name="txtProva"><br>
+            <input type="submit" name="Enviar"><br>
+            <input type="reset" name="Cancelar"><br>
+        </form>
+    </body>
+</html>
