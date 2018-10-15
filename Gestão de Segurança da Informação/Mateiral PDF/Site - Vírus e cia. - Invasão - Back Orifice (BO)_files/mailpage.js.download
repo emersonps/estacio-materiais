@@ -1,0 +1,16 @@
+function mailpage()
+<!-- Rodrigo -->
+{
+mail_str = "mailto:?subject=HP Muitas Dicas: " + document.title;
+mail_str += "&body=Oi ";
+mail_str +="%0D%0A";
+mail_str += "Estou enviando uma página";
+mail_str +="%0D%0A";
+mail_str += document.title;
+mail_str +="%0D%0A";
+mail_str +="%0D%0A";
+mail_str += "Para vê-la, clique neste link:";
+mail_str +="%0D%0A";
+mail_str += location.href;
+location.href = mail_str;
+}

@@ -1,0 +1,67 @@
+<!--
+
+/*
+Static menu script II (By maXimus, maximus@nsimail.com, http://maximus.ravecore.com/)
+Modified slightly/ permission granted to Dynamic Drive to feature script in archive
+For full source, usage terms, and 100's more DHTML scripts, visit http://dynamicdrive.com
+*/
+
+//configure abaixo a largura e a posição do menu em relação as margens do navegador
+var menuwidth=115
+
+//posiciona colado à direita, seja qual for a largura da tela. 
+var offsetleft=screen.width-144      
+var offsettop=90
+
+var ns4=document.layers?1:0
+var ie4=document.all?1:0
+var ns6=document.getElementById&&!document.all?1:0
+
+function makeStatic() {
+if (ie4) {object1.style.pixelTop=document.body.scrollTop+offsettop}
+else if (ns6) {document.getElementById("object1").style.top=window.pageYOffset+offsettop}
+else if (ns4) {eval(document.object1.top=eval(window.pageYOffset+offsettop));}
+setTimeout("makeStatic()",0);
+}
+//No final deste trecho você encontra "bgcolor="#333399". Aí você configura a cor de fundo do seu menu.
+if (ie4||ns6) {document.write('<span ALIGN="CENTER" ID="object1" STYLE="Position:absolute; Top:20; Left:'+offsetleft+'; Z-Index:5;cursor:hand;background-color:black;"><TABLE BORDER="1" width="'+menuwidth+'" CELLPADDING="0" CELLSPACING="0" BORDERCOLOR="black" bgcolor="#191970">')}
+
+else if (ns4){ document.write('<LAYER name="object1" left="'+offsetleft+'" BGCOLOR=black><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="1"><TR><TD><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" width="'+menuwidth+'"><font face="Arial" size="1">')}
+
+//Aqui você configura a cor de fundo da célula de "Menu", assim como sua fonte e tamanho. 
+
+var menui = new Array();
+var menul = new Array();
+
+//Aqui você coloca o nome dos links:
+menui[0]="Índice";
+menui[1]="a. Back Door";
+menui[2]="b. Desconfiar";
+menui[3]="c. Back Oriffice";
+menui[4]="d. NetBus";
+
+// E aqui você coloca o endereço dos links de acordo com a lista acima.	
+menul[0]="http://www.cultura.ufpa.br/dicas/vir/inv-indi.htm";
+menul[1]="http://www.cultura.ufpa.br/dicas/vir/inv-back.htm";
+menul[2]="http://www.cultura.ufpa.br/dicas/vir/inv-inv.htm";
+menul[3]="http://www.cultura.ufpa.br/dicas/vir/inv-bo.htm";
+menul[4]="http://www.cultura.ufpa.br/dicas/vir/inv-netb.htm";
+
+//Aqui você encontra a fonte dos links, no caso, Arial.
+for (i=0;i<=menui.length-1;i++)
+if (ie4||ns6) {document.write('<TR><TD BORDERCOLOR="white" ONCLICK="location=\''+menul[i]+'\'" onmouseover="className=\'menuh\'" onMouseout="className=\'menu\'"><RIGHT><FONT color="#98FB98" face="arial">'+menui[i]+'</FONT></RIGHT></TD></TR>')}
+
+//Nestre trecho você altera a cor de fundo do link quando o mouse estiver sobre ele. No caso, cyan. Aqui você também muda a cor que a célula deve ter depois que o mouse não estiver mais sobre ela. No caso, white.
+else if (ns4){document.write('<TR><TD BGCOLOR="white"><ILAYER><LAYER width="'+menuwidth+'" onmouseover="bgColor=\'cyan\'" onmouseout="bgColor=\'white\'"><CENTER><A HREF="'+menul[i]+'" class=menulinks>'+menui[i]+'</A></CENTER></LAYER></ILAYER></TD></TR>')}
+
+if (ie4||ns6) {document.write('</TABLE></span>')}
+else if (ns4){document.write('</TABLE></TD></TR></TABLE></LAYER>')}
+
+function menu3(){
+if (ns6||ie4||ns4)
+makeStatic()
+}
+
+window.onload=menu3
+
+//-->
