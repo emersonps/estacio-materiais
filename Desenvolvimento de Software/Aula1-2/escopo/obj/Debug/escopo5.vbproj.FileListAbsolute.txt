@@ -4,3 +4,9 @@ C:\Emerson\VB\Aula1-2\escopo\bin\Debug\escopo5.exe
 C:\Emerson\VB\Aula1-2\escopo\bin\Debug\escopo5.pdb
 C:\Emerson\VB\Aula1-2\escopo\obj\Debug\escopo5.exe
 C:\Emerson\VB\Aula1-2\escopo\obj\Debug\escopo5.pdb
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\escopo\bin\Debug\escopo5.exe.config
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\escopo\bin\Debug\escopo5.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\escopo\bin\Debug\escopo5.pdb
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\escopo\obj\Debug\escopo5.vbprojResolveAssemblyReference.cache
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\escopo\obj\Debug\escopo5.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\escopo\obj\Debug\escopo5.pdb
