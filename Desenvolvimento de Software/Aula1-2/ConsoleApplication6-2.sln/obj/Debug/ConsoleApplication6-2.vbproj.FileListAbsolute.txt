@@ -1,0 +1,6 @@
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\ConsoleApplication6-2.sln\bin\Debug\ConsoleApplication6-2.exe.config
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\ConsoleApplication6-2.sln\bin\Debug\ConsoleApplication6-2.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\ConsoleApplication6-2.sln\bin\Debug\ConsoleApplication6-2.pdb
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\ConsoleApplication6-2.sln\obj\Debug\ConsoleApplication6-2.vbprojResolveAssemblyReference.cache
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\ConsoleApplication6-2.sln\obj\Debug\ConsoleApplication6-2.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\ConsoleApplication6-2.sln\obj\Debug\ConsoleApplication6-2.pdb

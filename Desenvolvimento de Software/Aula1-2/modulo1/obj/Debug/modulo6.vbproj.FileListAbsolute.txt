@@ -1,0 +1,5 @@
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\modulo1\bin\Debug\modulo6.exe.config
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\modulo1\bin\Debug\modulo6.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\modulo1\bin\Debug\modulo6.pdb
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\modulo1\obj\Debug\modulo6.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\modulo1\obj\Debug\modulo6.pdb

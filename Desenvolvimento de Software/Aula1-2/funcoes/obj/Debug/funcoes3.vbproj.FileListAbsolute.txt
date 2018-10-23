@@ -1,0 +1,6 @@
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\funcoes\bin\Debug\funcoes3.exe.config
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\funcoes\bin\Debug\funcoes3.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\funcoes\bin\Debug\funcoes3.pdb
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\funcoes\obj\Debug\funcoes3.vbprojResolveAssemblyReference.cache
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\funcoes\obj\Debug\funcoes3.exe
+C:\Emerson\facul\Desenvolvimento de Software\Aula1-2\funcoes\obj\Debug\funcoes3.pdb
